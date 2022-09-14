@@ -16,7 +16,7 @@ public class Sortowanie {
     public void wypiszTablice() {
         System.out.println("Tablica:");
         for (int element : tablica) {
-            System.out.println(element + " ");
+            System.out.print(element + " ");
         }
     }
 
